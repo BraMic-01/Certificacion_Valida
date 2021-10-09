@@ -1,0 +1,1 @@
+[28-Apr-2021 13:21:31 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/buextrag/public_html/uploads/certi_valida/certi/conexion.php on line 7
